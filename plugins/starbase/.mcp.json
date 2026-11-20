@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "starbase": {
+      "type": "http",
+      "url": "https://starbase.cool/api/mcp"
+    }
+  }
+}

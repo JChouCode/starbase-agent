@@ -1,0 +1,12 @@
+{
+  "name": "starbase",
+  "interface": { "displayName": "Starbase" },
+  "plugins": [
+    {
+      "name": "starbase",
+      "source": { "source": "local", "path": "./plugins/starbase" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

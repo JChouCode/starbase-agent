@@ -1,0 +1,11 @@
+{
+  "name": "starbase",
+  "displayName": "Starbase",
+  "version": "1.0.0",
+  "description": "Plan your day in Starbase: read and change tasks, your schedule, goals, habits and books.",
+  "author": { "name": "Starbase", "email": "hello@starbase.cool", "url": "https://starbase.cool" },
+  "homepage": "https://starbase.cool",
+  "repository": "https://github.com/JChouCode/starbase-agent",
+  "license": "MIT",
+  "keywords": ["planner", "tasks", "calendar", "productivity"]
+}

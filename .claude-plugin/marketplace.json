@@ -1,0 +1,12 @@
+{
+  "name": "starbase",
+  "description": "Starbase, the day planner, for coding agents",
+  "owner": { "name": "Starbase", "email": "hello@starbase.cool" },
+  "plugins": [
+    {
+      "name": "starbase",
+      "source": "./plugins/starbase",
+      "description": "Plan your day in Starbase: read and change tasks, your schedule, goals, habits and books."
+    }
+  ]
+}
